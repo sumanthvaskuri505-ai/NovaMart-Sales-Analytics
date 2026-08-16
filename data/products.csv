@@ -1,0 +1,201 @@
+product_id,product_name,category,sub_category,unit_cost,unit_price
+P0001,Storage Cabinet,Furniture,Storage,4783.9,7661.23
+P0002,Saucepan,Home & Kitchen,Cookware,1288.28,1794.71
+P0003,UltraBook Laptop,Electronics,Laptops,3685.19,7769.87
+P0004,Ultrawide Monitor,Electronics,Monitors,353.45,514.49
+P0005,Jacket,Fashion,Men's Wear,562.59,1225.67
+P0006,Wall Clock,Home & Kitchen,Decor,2244.14,2893.37
+P0007,Cable Organizer,Office Supplies,Organizers,379.11,784.67
+P0008,Executive Chair,Furniture,Chairs,4096.73,7688.33
+P0009,Sandals,Fashion,Footwear,158.22,301.06
+P0010,Mixer Grinder,Home & Kitchen,Appliances,183.63,363.75
+P0011,A4 Paper,Office Supplies,Paper,2507.41,3376.0
+P0012,Gaming Laptop,Electronics,Laptops,7939.12,15411.55
+P0013,Pen Set,Office Supplies,Stationery,9267.76,12074.1
+P0014,Ergonomic Chair,Furniture,Chairs,1872.56,3028.54
+P0015,Color Printer,Office Supplies,Printers,100.98,176.59
+P0016,Bookshelf,Home & Kitchen,Storage,210.84,365.83
+P0017,Corner Desk,Furniture,Desks,4258.2,7289.06
+P0018,Smartphone X,Electronics,Smartphones,287.97,533.08
+P0019,UltraBook Laptop,Electronics,Laptops,23093.21,33590.31
+P0020,Storage Rack,Furniture,Storage,2921.05,4273.2
+P0021,Webcam,Electronics,Accessories,1511.48,2418.97
+P0022,Visitor Chair,Furniture,Chairs,2526.04,4810.09
+P0023,File Organizer,Office Supplies,Organizers,8362.44,11663.33
+P0024,Smartphone Max,Electronics,Smartphones,16093.07,31026.0
+P0025,Plant Pot,Home & Kitchen,Decor,3951.4,7322.61
+P0026,Formal Shirt,Fashion,Men's Wear,612.27,1006.45
+P0027,Sneakers,Fashion,Footwear,3445.56,5118.71
+P0028,Cookware Set,Home & Kitchen,Cookware,1132.2,2019.29
+P0029,Gaming Laptop,Electronics,Laptops,1557.8,2914.4
+P0030,32-inch Monitor,Electronics,Monitors,372.64,691.0
+P0031,Visitor Chair,Furniture,Chairs,3877.33,6906.93
+P0032,Kurti,Fashion,Women's Wear,6605.04,10274.63
+P0033,Running Shoes,Fashion,Footwear,4383.91,5878.09
+P0034,Premium Paper,Office Supplies,Paper,1346.23,2560.04
+P0035,Storage Rack,Furniture,Storage,783.18,1023.33
+P0036,Storage Rack,Furniture,Storage,2095.48,2689.06
+P0037,Toaster,Home & Kitchen,Appliances,6711.42,12191.12
+P0038,File Organizer,Office Supplies,Organizers,1098.01,2226.95
+P0039,Mixer Grinder,Home & Kitchen,Appliances,2598.1,5250.07
+P0040,Study Table,Furniture,Tables,5637.76,11240.58
+P0041,Top,Fashion,Women's Wear,2431.5,5051.82
+P0042,Handbag,Fashion,Bags,2436.01,4334.79
+P0043,Standing Desk,Furniture,Desks,4896.47,7719.5
+P0044,Jeans,Fashion,Men's Wear,7670.1,11967.28
+P0045,Storage Cabinet,Home & Kitchen,Storage,9533.25,12461.87
+P0046,Kurti,Fashion,Women's Wear,355.42,552.33
+P0047,Study Table,Furniture,Tables,11433.23,15094.05
+P0048,Pen Set,Office Supplies,Stationery,1545.74,3001.76
+P0049,Premium Paper,Office Supplies,Paper,557.36,884.75
+P0050,Business Laptop,Electronics,Laptops,8284.96,14579.25
+P0051,UltraBook Laptop,Electronics,Laptops,59029.8,78250.47
+P0052,Mechanical Keyboard,Electronics,Accessories,1139.08,1917.58
+P0053,Bookshelf,Furniture,Storage,732.84,1257.19
+P0054,Standing Desk,Furniture,Desks,1521.24,3019.68
+P0055,Premium Paper,Office Supplies,Paper,148.32,234.39
+P0056,Pen Set,Office Supplies,Stationery,3586.14,4684.86
+P0057,Casual Shirt,Fashion,Men's Wear,2740.47,4038.76
+P0058,Cookware Set,Home & Kitchen,Cookware,475.53,1052.38
+P0059,Cable Organizer,Office Supplies,Organizers,312.28,496.12
+P0060,Formal Shirt,Fashion,Men's Wear,373.28,569.27
+P0061,Photo Paper,Office Supplies,Paper,1388.82,2141.68
+P0062,Sandals,Fashion,Footwear,261.64,385.91
+P0063,Photo Frame,Home & Kitchen,Decor,267.78,514.39
+P0064,Study Table,Furniture,Tables,2938.2,5938.68
+P0065,Photo Paper,Office Supplies,Paper,32.37,58.29
+P0066,24-inch Monitor,Electronics,Monitors,46668.75,84854.01
+P0067,Gaming Laptop,Electronics,Laptops,2264.53,3484.26
+P0068,Webcam,Electronics,Accessories,2180.07,3320.39
+P0069,Air Fryer,Home & Kitchen,Appliances,1702.88,3120.75
+P0070,Electric Kettle,Home & Kitchen,Appliances,6329.62,10486.52
+P0071,Backpack,Fashion,Bags,440.24,620.38
+P0072,Drawer Unit,Home & Kitchen,Storage,1639.05,2645.34
+P0073,Standing Desk,Furniture,Desks,2902.41,6226.69
+P0074,Top,Fashion,Women's Wear,5854.21,8547.88
+P0075,Visitor Chair,Furniture,Chairs,10488.37,16637.49
+P0076,Frying Pan,Home & Kitchen,Cookware,1414.66,3022.69
+P0077,Air Fryer,Home & Kitchen,Appliances,9326.75,16418.24
+P0078,Dress,Fashion,Women's Wear,4057.46,8879.54
+P0079,Saucepan,Home & Kitchen,Cookware,4478.3,7727.9
+P0080,Jeans,Fashion,Women's Wear,1991.93,2869.7
+P0081,Wireless Mouse,Electronics,Accessories,561.59,1137.28
+P0082,Gaming Laptop,Electronics,Laptops,40967.18,57445.71
+P0083,Cookware Set,Home & Kitchen,Cookware,282.3,493.9
+P0084,Pen Set,Office Supplies,Stationery,2813.67,5653.7
+P0085,Premium Paper,Office Supplies,Paper,1198.47,2517.02
+P0086,Photo Frame,Home & Kitchen,Decor,2679.68,4461.8
+P0087,Running Shoes,Fashion,Footwear,1090.49,1743.84
+P0088,Bookshelf,Home & Kitchen,Storage,201.53,283.95
+P0089,Formal Shirt,Fashion,Men's Wear,677.9,1249.78
+P0090,Ergonomic Chair,Furniture,Chairs,4522.82,8182.28
+P0091,Stapler,Office Supplies,Stationery,7637.57,12701.07
+P0092,Table Lamp,Home & Kitchen,Decor,116.25,251.53
+P0093,Color Printer,Office Supplies,Printers,1825.03,3228.67
+P0094,Saucepan,Home & Kitchen,Cookware,858.16,1585.25
+P0095,Jeans,Fashion,Women's Wear,4479.43,7869.87
+P0096,Work Table,Furniture,Tables,2807.52,3755.52
+P0097,Headset,Electronics,Accessories,742.47,993.09
+P0098,Marker Set,Office Supplies,Stationery,187.99,254.14
+P0099,Ergonomic Chair,Furniture,Chairs,3489.83,6208.13
+P0100,Bookshelf,Furniture,Storage,1211.18,2457.12
+P0101,Business Laptop,Electronics,Laptops,45105.0,70489.44
+P0102,UltraBook Laptop,Electronics,Laptops,2515.59,3678.96
+P0103,Office Chair,Furniture,Chairs,5659.99,9307.8
+P0104,Storage Rack,Furniture,Storage,15258.25,21141.71
+P0105,Notebook,Office Supplies,Stationery,93.13,131.43
+P0106,Smartphone Max,Electronics,Smartphones,33513.18,61109.59
+P0107,Ultrawide Monitor,Electronics,Monitors,22625.17,35858.31
+P0108,A4 Paper,Office Supplies,Paper,60.17,78.56
+P0109,Inkjet Printer,Office Supplies,Printers,219.42,381.57
+P0110,Storage Rack,Furniture,Storage,605.6,1237.72
+P0111,Standing Desk,Furniture,Desks,714.36,1548.33
+P0112,Laser Printer,Office Supplies,Printers,100.63,221.32
+P0113,ProBook Laptop,Electronics,Laptops,31709.4,42482.11
+P0114,Top,Fashion,Women's Wear,760.17,974.63
+P0115,Ultrawide Monitor,Electronics,Monitors,1043.88,1877.37
+P0116,Premium Paper,Office Supplies,Paper,500.41,1100.97
+P0117,32-inch Monitor,Electronics,Monitors,5539.96,10658.16
+P0118,Cable Organizer,Office Supplies,Organizers,1613.51,3351.69
+P0119,Webcam,Electronics,Accessories,19849.16,38318.1
+P0120,Jacket,Fashion,Men's Wear,793.15,1646.04
+P0121,Business Laptop,Electronics,Laptops,1332.56,2170.95
+P0122,Business Laptop,Electronics,Laptops,1025.25,1318.52
+P0123,Pen Set,Office Supplies,Stationery,7248.41,10001.57
+P0124,Premium Paper,Office Supplies,Paper,1463.23,2960.28
+P0125,Cookware Set,Home & Kitchen,Cookware,175.04,308.14
+P0126,Notebook,Office Supplies,Stationery,6892.06,9308.33
+P0127,Handbag,Fashion,Bags,246.78,529.61
+P0128,Sneakers,Fashion,Footwear,1833.94,3206.69
+P0129,Inkjet Printer,Office Supplies,Printers,108.78,196.47
+P0130,Inkjet Printer,Office Supplies,Printers,1194.03,1559.97
+P0131,Drawer Unit,Furniture,Storage,7585.35,15561.04
+P0132,Jeans,Fashion,Women's Wear,1134.82,1776.2
+P0133,Jeans,Fashion,Men's Wear,4548.4,10081.81
+P0134,Wall Clock,Home & Kitchen,Decor,337.92,477.4
+P0135,Bookshelf,Furniture,Storage,9029.14,15934.33
+P0136,27-inch Monitor,Electronics,Monitors,2324.24,3736.39
+P0137,Smartphone Pro,Electronics,Smartphones,3399.2,4533.77
+P0138,Drawer Unit,Furniture,Storage,14256.6,22574.28
+P0139,27-inch Monitor,Electronics,Monitors,16282.65,30308.74
+P0140,Office Desk,Furniture,Desks,789.71,1727.49
+P0141,27-inch Monitor,Electronics,Monitors,12716.26,26182.25
+P0142,Saucepan,Home & Kitchen,Cookware,4060.42,7255.41
+P0143,Sneakers,Fashion,Footwear,201.78,327.83
+P0144,Sneakers,Fashion,Footwear,358.3,600.72
+P0145,Plant Pot,Home & Kitchen,Decor,15370.37,21057.3
+P0146,Sneakers,Fashion,Footwear,1676.59,2583.14
+P0147,Formal Shoes,Fashion,Footwear,2706.49,3943.07
+P0148,32-inch Monitor,Electronics,Monitors,30848.82,45912.53
+P0149,Electric Kettle,Home & Kitchen,Appliances,150.65,266.13
+P0150,UltraBook Laptop,Electronics,Laptops,609.52,1189.35
+P0151,Business Laptop,Electronics,Laptops,15817.42,27443.17
+P0152,Backpack,Fashion,Bags,216.23,451.65
+P0153,Work Table,Furniture,Tables,2386.64,3110.42
+P0154,USB Hub,Electronics,Accessories,17652.38,35830.91
+P0155,Conference Table,Furniture,Tables,2447.39,3685.98
+P0156,Toaster,Home & Kitchen,Appliances,1573.79,2857.47
+P0157,A4 Paper,Office Supplies,Paper,42.93,94.91
+P0158,Smartphone Max,Electronics,Smartphones,8954.19,16326.39
+P0159,Jeans,Fashion,Men's Wear,4893.44,8917.99
+P0160,Formal Shoes,Fashion,Footwear,5220.52,7009.16
+P0161,Storage Cabinet,Home & Kitchen,Storage,212.8,357.53
+P0162,Ergonomic Chair,Furniture,Chairs,9339.09,20210.56
+P0163,Running Shoes,Fashion,Footwear,7316.93,11010.47
+P0164,Saucepan,Home & Kitchen,Cookware,163.85,288.19
+P0165,Gaming Laptop,Electronics,Laptops,24941.37,54308.05
+P0166,Wall Clock,Home & Kitchen,Decor,629.72,1176.34
+P0167,Travel Bag,Fashion,Bags,3508.92,5543.56
+P0168,27-inch Monitor,Electronics,Monitors,830.38,1065.63
+P0169,Formal Shoes,Fashion,Footwear,883.3,1179.48
+P0170,Cable Organizer,Office Supplies,Organizers,3338.25,5109.47
+P0171,Drawer Unit,Home & Kitchen,Storage,3488.64,5979.14
+P0172,Work Table,Furniture,Tables,23101.22,29812.13
+P0173,USB Hub,Electronics,Accessories,40937.6,52805.01
+P0174,Photo Paper,Office Supplies,Paper,40.36,72.52
+P0175,Laptop Bag,Fashion,Bags,3108.61,4636.85
+P0176,Top,Fashion,Women's Wear,951.98,1327.82
+P0177,Work Table,Furniture,Tables,8614.87,11822.19
+P0178,Formal Shoes,Fashion,Footwear,2246.68,4630.97
+P0179,Jacket,Fashion,Men's Wear,280.53,367.79
+P0180,Photo Paper,Office Supplies,Paper,48.03,66.1
+P0181,Premium Paper,Office Supplies,Paper,5040.33,7870.57
+P0182,Kurti,Fashion,Women's Wear,185.96,302.87
+P0183,Travel Bag,Fashion,Bags,546.44,1187.39
+P0184,Photo Paper,Office Supplies,Paper,220.56,323.13
+P0185,Running Shoes,Fashion,Footwear,219.03,379.57
+P0186,Standing Desk,Furniture,Desks,7798.57,10823.4
+P0187,Cookware Set,Home & Kitchen,Cookware,126.7,243.32
+P0188,Stapler,Office Supplies,Stationery,3260.24,4616.51
+P0189,UltraBook Laptop,Electronics,Laptops,3489.96,4490.48
+P0190,File Organizer,Office Supplies,Organizers,5161.53,10365.23
+P0191,Dress,Fashion,Women's Wear,767.64,1165.34
+P0192,Sneakers,Fashion,Footwear,5909.94,11648.01
+P0193,Travel Bag,Fashion,Bags,1052.84,1686.06
+P0194,Laser Printer,Office Supplies,Printers,9153.46,12191.76
+P0195,File Organizer,Office Supplies,Organizers,1366.51,2281.11
+P0196,Photo Frame,Home & Kitchen,Decor,162.74,224.36
+P0197,Top,Fashion,Women's Wear,681.54,1192.24
+P0198,Formal Shirt,Fashion,Men's Wear,837.59,1432.38
+P0199,Cookware Set,Home & Kitchen,Cookware,1862.54,3356.74
+P0200,Storage Rack,Furniture,Storage,935.69,1460.59
