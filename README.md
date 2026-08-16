@@ -7,6 +7,11 @@ NovaMart Sales Analytics is an end-to-end Data Analytics project that analyzes s
 The objective of this project is to transform raw sales data into meaningful business insights and an interactive dashboard that can help identify revenue trends, profitable categories, regional performance, customer segments, sales channels, and top-performing products.
 
 ---
+## 📸 Power BI Dashboard
+
+![NovaMart Sales Dashboard](screenshots/dashboard.png)
+
+The dashboard provides an interactive view of NovaMart's sales performance, including revenue, profit, customers, products, regions, sales channels, and monthly trends.
 
 ## 🎯 Business Objectives
 
@@ -284,3 +289,13 @@ NovaMart_Sales_Analytics/
 │   └── dashboard.png
 │
 └── README.md
+
+## 📌 Key Takeaways
+
+- Electronics is the largest revenue-generating product category.
+- Fashion has the highest profit margin among the product categories.
+- South is the highest-revenue region.
+- West has the highest regional profit margin.
+- Online sales contribute approximately 63% of total revenue.
+- Consumer customers contribute the largest share of revenue.
+- Revenue shows strong growth throughout 2025.
