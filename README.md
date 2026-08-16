@@ -156,6 +156,7 @@ MySQL was used to perform structured business analysis on the sales database.
 ---
 
 # 📈 Power BI Dashboard
+![NovaMart Sales Dashboard](screenshots/dashboard.png)
 
 An interactive Power BI dashboard was created to visualize the results of the analysis.
 
